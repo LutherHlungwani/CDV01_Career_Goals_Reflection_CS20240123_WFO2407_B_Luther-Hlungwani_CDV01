@@ -1,32 +1,18 @@
 
-# Career Goals Reflection Template
-
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
-
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Luther Hlungwani**
+- **2024/07/18**
+- **Developer**
+- **Front-End Development**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - Currently very comfortable with HTML, and working on building my skills in CSS and Javascript (as my first scripting language) to  break into the tech space as a Junior Front-End developer.
+    - I am skilled up to NQF level 5 with accounting and book-keeping.
+    - I still have room to grow to as a developer as I still need to build skills in Javascript and React (among other front-end frameworks), along with developer and design tools like Figma and other tools.
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
@@ -36,23 +22,26 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - Web Development.
+    - Game development.
+    - Penetration Testing.
+    
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - With determination and persistence, at my pace, I am gonna be able to get into the space I am aspiring to and have I could realistically penetrate into tech. It will not be easy, but, I will make it in.
+    
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - After my time at Codespace, I am going to start job-seeking and obtain a Junior React developer within 6 months, while also starting to do some freelance work to enhance my skills while seeking employment.
+    - Moving to Johannesburg to be closer to better employment opportunities and more family members.
+    
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - Becoming a Game developer, this being my ultimate goal. Of course, growing my knowledge acroos a wide range of scripting and programming languages.
+    - This will be me finally reaching my ultimate goals.
 
 ### Part 4: Action Plan
 
@@ -69,19 +58,12 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Breaking into the technology industry (Getting my first job). With such a competitive market that has so many new developers with unique skills at varying levels, it may prove harder to stand out to recruiters and hiring devs.
+    - The skill gap and imposter syndrome deterring me when I am temporarily faced with a challenging obstacle.
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - Taking the time to actually build skills daily and building a more attractive portfolio to capture the attention of recruiters and freelance clients and getting to midl-level developer.
+    - Asking for help and joining communities to grow my network, get mentorship and learn from industry experts.
 
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
 
 
