@@ -15,8 +15,8 @@
     - I still have room to grow to as a developer as I still need to build skills in Javascript and React (among other front-end frameworks), along with developer and design tools like Figma and other tools.
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - I am keenly interested in being in a developer job with lots of oppurtunity to work with all sorts of people and to grow in the industry.
+    - A work enviroment that affords a lot of positive reinforcement. A workplace where making mistakes is not punished severely and asking questions is encouraged. 
 
 ### Part 2: Career Exploration Insights
 
@@ -47,12 +47,11 @@
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    -  Having taken my the first step by becoming a Codespace student and learning the technical and soft skills necessary to get my first job, I aim to engage intentionally with with the course material and learn all I can from the program.
+    - Upon graduating, I will be self-educating in as many programming and scripting languages as possible while attending any softwafe community programs as possible to establish as many essential professional relationships as possible making sure I have the people who will alert me of any oppurtunities that may arise in their respective spaces.
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Honing my professsional ettiqute and aligning myself in spaces where opportunities to impress recruiters.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
